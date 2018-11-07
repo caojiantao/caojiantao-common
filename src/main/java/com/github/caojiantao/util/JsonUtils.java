@@ -1,4 +1,4 @@
-package cn.caojiantao.common.util;
+package com.github.caojiantao.util;
 
 import com.alibaba.fastjson.JSONObject;
 

@@ -1,4 +1,4 @@
-package cn.caojiantao.common.dto;
+package com.github.caojiantao.dto;
 
 import lombok.Data;
 
