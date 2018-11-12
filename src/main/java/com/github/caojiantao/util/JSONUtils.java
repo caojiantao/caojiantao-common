@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author caojiantao
  */
-public class JsonUtils {
+public class JSONUtils {
 
     /**
      * 组装分页结果JSON
